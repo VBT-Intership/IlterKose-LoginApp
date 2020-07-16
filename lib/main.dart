@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:LoginWork/LoginView.dart';
+import 'package:LoginWork/welcomeView.dart';
 
 void main() {
   runApp(MyApp());
